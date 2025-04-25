@@ -1,4 +1,4 @@
-# Dama-do-Vovo
+# Dama do Vovô
 Trabalho prático da disciplina de projeto e análise de algoritmos
 
 ```c
